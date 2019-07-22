@@ -1,0 +1,13 @@
+---
+title: "Arbeitsaufträge"
+subtitle: "App: Korrelationen verändern und beobachten [![](info.png){width=13px}](https://github.com/SonjaHahn/Cor_AO)"
+#author: "SH"
+#date: "17.7.2019"
+output: pdf_document
+---
+
+
+```{r child = 'Cor_AO.md'}
+```
+
+
